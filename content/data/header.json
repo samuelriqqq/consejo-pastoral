@@ -13,17 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "Declaracion de Fe",
-            "url": "/pricing",
+            "label": "Nuestra finalidad",
+            "altText": "Careers page",
+            "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Nuestra finalidad",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Declaracion de Fe",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
